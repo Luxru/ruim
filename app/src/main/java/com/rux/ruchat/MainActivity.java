@@ -1,6 +1,9 @@
 package com.rux.ruchat;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.room.Database;
+import androidx.room.Room;
+import androidx.room.RoomDatabase;
 
 import android.os.Bundle;
 import android.util.Log;
