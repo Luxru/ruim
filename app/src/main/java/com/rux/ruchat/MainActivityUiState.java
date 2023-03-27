@@ -26,3 +26,4 @@ public class MainActivityUiState {
         return uid;
     }
 }
+
